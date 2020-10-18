@@ -1,0 +1,13 @@
+Added Pin To Net: NetName=MOT_POW_2 Pin=C4-1
+Added Pin To Net: NetName=MOT_POW_2 Pin=C5-1
+Added Pin To Net: NetName=MOT_POW_2 Pin=C6-1
+Added Pin To Net: NetName=MOT_POW_2 Pin=C11-1
+Added Pin To Net: NetName=MOT_POW_2 Pin=C15-1
+Added Pin To Net: NetName=MOT_POW_2 Pin=C16-1
+Added Pin To Net: NetName=MOT_POW_2 Pin=U1-3
+Added Pin To Net: NetName=MOT_POW_2 Pin=U1-4
+Added Pin To Net: NetName=MOT_POW_2 Pin=U3-3
+Added Pin To Net: NetName=MOT_POW_2 Pin=U4-7
+Added Pin To Net: NetName=MOT_POW_2 Pin=U5-7
+Change Net Name : Old Net Name=MOT_POW_2 New Net Name=BATT_OUT
+Added Room: Name=Sheet1
