@@ -133,24 +133,24 @@ int main(void)
 	  HAL_Delay(100);
 	  */
 	  setSpeed(0, 0, 0, 20);
-	  HAL_delay(500);
+	  HAL_Delay(500);
 
 	  setSpeed(0, 0, 0, 50);
-	  HAL_delay(500);
+	  HAL_Delay(500);
 
 	  setSpeed(0, 0, 0, 100);
-	  HAL_delay(500);
+	  HAL_Delay(500);
 
 	  stopMotors();
 
 	  setSpeed(0, 0, 20, 0);
-	  HAL_delay(500);
+	  HAL_Delay(500);
 
 	  setSpeed(0, 0, 50, 0);
-	  HAL_delay(500);
+	  HAL_Delay(500);
 
 	  setSpeed(0, 0, 100, 0);
-	  HAL_delay(500);
+	  HAL_Delay(500);
 
 	  stopMotors();
     /* USER CODE END WHILE */
