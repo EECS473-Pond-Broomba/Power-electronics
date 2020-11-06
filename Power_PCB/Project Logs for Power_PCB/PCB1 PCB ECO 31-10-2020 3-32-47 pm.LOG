@@ -1,0 +1,25 @@
+Change Component Footprint: Designator=P1 Old Footprint=TECO-640456-6_V New Footprint=61300811121
+Change Component Comment : Designator=P1 Old Comment=640456-6 New Comment=61300811121
+Change Managed Component Library Link : Designator=P1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=E538C318-A747-4416-AE3D-28579115FFF2 New ItemGUID=2615ADFC-2EA6-4AD2-9757-89403FB1141F Old RevisionGUID=E4637DB5-DD02-4A40-90F4-83F188457AA4 New RevisionGUID=94A3B908-2112-4854-B1EA-5BECC85763F0
+Change component parameters: Designator = "P1" ("P1"); Footprint = "TECO-640456-6_V"; UniqueID = "\LETSWLOK" ("\LETSWLOK")
+Change component parameters (AddParameter): Name = "Contact Resistance"; Value = "20mOhm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "https://katalog.we-online.de/em/datasheet/6130xx11121.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "THT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40to105degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "61300811121"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bag"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "61300811121"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Number"; Value = "8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "WurthElektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rated Current"; Value = "3A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Row Number"; Value = "Single"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Withstanding Voltage"; Value = "500VAC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Working Voltage"; Value = "250VAC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=RELAY_SIG Pin=P1-7
+Added Pin To Net: NetName=BATT_GND Pin=P1-8
+Added Room: Name=Sheet1
